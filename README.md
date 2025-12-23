@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/seu-linkedin-aqui">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
