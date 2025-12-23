@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um estudante de tecnologia que acredita que a melhor forma de aprender é construindo. Não busco fórmulas mágicas, busco entender a lógica.
+Sou um estudante de tecnologia que acredita que a melhor forma de aprender é construindo.
 
 - **Foco atual:** Criar aplicações que funcionam de ponta a ponta (Front-end e Back-end).
 - **Mentalidade:** Se um código está aqui, é porque eu entendi como ele funciona, não apenas copiei.
