@@ -1,4 +1,4 @@
-<h1 align="center">Ivo Melo</h1>
+<h1 align="center">Antonio Ithalo</h1>
 <p align="center">
   💻 Desenvolvedor Full Stack | Focado na prática e no aprendizado constante
 </p>
@@ -6,9 +6,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/seu-linkedin-aqui">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
