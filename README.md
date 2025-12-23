@@ -2,9 +2,6 @@
 <p align="center">
   💻 Desenvolvedor Full Stack | Focado na prática e no aprendizado constante
 </p>
-<p align="center">
-</p>
----
 
 ## 👨‍💻 Sobre Mim
 
