@@ -1,63 +1,63 @@
 <h1 align="center">Antonio Ithalo</h1>
 <p align="center">
-  Programador Full Stack
+  💻 Desenvolvedor Full Stack | Focado na prática e no aprendizado constante
 </p>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github">
+  <a href="https://linkedin.com/in/seu-linkedin-aqui">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin">
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-## 🚀 Como eu penso
+## 👨‍💻 Sobre Mim
 
-Meu objetivo é simples: transformar ideias em ferramentas úteis.  
+Sou um estudante de tecnologia que acredita que a melhor forma de aprender é construindo. Não busco fórmulas mágicas, busco entender a lógica.
 
-Em vez de decorar manuais, eu prefiro:
-- Entender como o sistema se comporta na prática
-- Escrever códigos que outras pessoas consigam ler
-- Focar no que realmente resolve a situação
-
-Estou construindo meu caminho na programação com base em **esforço e repetição**.
+- **Foco atual:** Criar aplicações que funcionam de ponta a ponta (Front-end e Back-end).
+- **Mentalidade:** Se um código está aqui, é porque eu entendi como ele funciona, não apenas copiei.
+- **Objetivo:** Resolver problemas reais usando as ferramentas certas.
 
 ---
 
-## 🛠 Ferramentas que domino
+## 🛠 Ferramentas e Tecnologias
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk">
-</p>
+Aqui estão as tecnologias que uso para dar vida aos meus projetos:
 
-Uso cada uma dessas ferramentas para tirar projetos do papel e testar novas possibilidades.
+### 🌐 Web & Mobile
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
-
-## 📁 O que você encontra nos meus repositórios
-
-Aqui você não vai ver códigos copiados. Você vai ver:
-1. **Comprometimento:** Projetos que chegam ao fim.
-2. **Clareza:** Arquivos bem divididos e fáceis de entender.
-3. **Verdade:** O registro real de como eu resolvi cada desafio.
-
-Este perfil serve para mostrar **onde eu estou e para onde estou indo**.
+### ⚙️ Back-end & Scripts
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-## 💡 Um pensamento
+## 📊 Meu Progresso
 
-> Programar não é sobre saber tudo, é sobre saber encontrar a solução  
-> para o problema que apareceu hoje.
+Aqui no meu perfil, você vai encontrar:
+* **Projetos Reais:** Testes e aplicações que saíram do papel.
+* **Código Limpo:** Preocupação em deixar o código fácil de ler para outros devs.
+* **Evolução:** Cada repositório mostra um degrau a mais no meu conhecimento.
+
+---
+
+## 💬 Vamos conversar?
+
+> "O segredo de avançar é começar."
 
 ---
 
 <p align="center">
-  <sub>Dando um passo por vez.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ithalolp&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+</p>
+
+<p align="center">
+  <sub>Construindo o futuro, um commit por vez.</sub>
 </p>
